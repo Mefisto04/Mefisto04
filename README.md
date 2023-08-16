@@ -65,20 +65,10 @@ const mefisto04 = {
 #### ⛓️Libraries and Frameworks:
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>	
-  <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>	
   <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>	
-  <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
-  <img alt="Chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
-  <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"/>
 </div>
 
@@ -96,17 +86,6 @@ const mefisto04 = {
   <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>	
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-</div>
-
-
-<!-- Volunteering Experience -->
-<h2>Volunteering and Community work📣</h2>
-<div>
-  <p>● <a href="https://studentambassadors.microsoft.com/#">Microsoft Learn Student Ambassador</a> / <a href="/https://gdsc.community.dev/medi-caps-university-indore/">GDSC Medi-Caps</a> - As an MLSA, I teamed up with ambassadors and hosted a 3-day web dev session for the Coding Society Community. I led a Git and GitHub workshop, promoting open source and mentoring participants. Also organized a Hacktoberfest kickoff in the HEKORS Community.</p>
-  
-  <p>● <a href="/">Hackathons Participant/Mentor</a> - I have participated in various hackathons like <a href="https://mlh.io/">MLH</a>, <a href="https://hackthisfall.tech/">HackThisFall</a>, <a href="https://hackthenorth.com/">HackTheNorth</a>, <a href="https://wittyhacks.in/">Wittyhacks</a>, and <a href="https://hackacode.anyonecanco.de/">AnyoneCo.de</a>, where our team created a Hogwatrz Magical project at MLH's AbracadabraHacks. I won the HackThisFall hackathon for the best use of Twilio and also mentored other hackers while collaborating with organizers and volunteers.</p>
-  
-  <p>● <a href="http://thedesignsystems.com/">The DesignSystems (@DesignSystemsOSS)</a> - I actively collaborated in a team to create the <code>eccentrictouch</code> CSS library using ReactJS and SCSS, with a focus on addressing frontend challenges. Additionally, I made significant contributions to thedesignsystems community website by developing UI components from scratch.</p>
 </div>
 
 
