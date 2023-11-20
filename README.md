@@ -4,6 +4,7 @@
 <p>👨🏻‍💻I'm a dedicated front-end developer and proficient in Flutter development. My passion for coding extends to the world of web3 development, and I thrive as a competitive programmer. Beyond coding, I'm drawn to the power of effective communication and public speaking. With an unwavering enthusiasm, I'm eagerly seeking opportunities to contribute my skills and expertise to meaningful projects. I believe in the potential of collaboration and innovation, and I'm excited to embark on a journey of growth and impactful contributions.</p>
 
 <!-- Socials Links -->
+
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/mayur-kawale-15a2b2250/" target="_blank">
