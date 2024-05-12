@@ -93,7 +93,7 @@ const mefisto04 = {
   <h2>Stats📈</h2>
 
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mefisto04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mefisto04?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mefisto04&theme=tokyonight" alt="GitHub Streak" />
   </p>
 </div>
