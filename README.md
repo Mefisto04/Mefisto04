@@ -99,5 +99,16 @@ const mefisto04 = {
   </p>
 </div>
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mefisto04&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div style="display: flex; flex-direction: row;">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Mefisto04&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mefisto04&theme=gotham&hide_border=false" />
+
+</div>
+
 <!-- END -->
 
