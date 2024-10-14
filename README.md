@@ -99,6 +99,7 @@ const mefisto04 = {
   </p>
 </div>
 
+<!--
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mefisto04&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -110,5 +111,5 @@ const mefisto04 = {
 
 </div>
 
-<!-- END -->
+ END -->
 
