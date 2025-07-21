@@ -102,6 +102,17 @@ const mefisto04 = {
   </p>
 </div>
 
+
+## 🛠️ Open Source Contributions
+
+| Project | Organization | Contribution Summary |
+|--------|--------------|----------------------|
+| [Hugging Face – `trl` PR #2249](https://github.com/huggingface/trl/pull/2249) | **Hugging Face**<br/>A leading company in NLP and ML, offering tools like Transformers, Diffusers, and TRL. | ✔️ Refactored `log_reports.py` for maintainability<br/>✔️ Added structured logging and context manager |
+| [Repomix – PR #134](https://github.com/yamadashy/repomix/pull/134) | **Repomix**<br/>A fast and flexible codebase analysis tool. | ✔️ Parallelized ignore pattern fetch with `Promise.all`<br/>✔️ Simplified logic and improved error messages |
+| [Repomix – PR #122](https://github.com/yamadashy/repomix/pull/122) | **Repomix** | ✔️ Refactored `searchInPairs` for better readability<br/>✔️ Improved string trimming using `trimEnd()` |
+| [Dev Tracker](https://github.com/Mefisto04/dev-tracker) | **Personal Project**<br/>Developer productivity tracker for file changes. | ✔️ Built CLI to track adds/deletes/modifies<br/>✔️ Real-time log of file activity for better workflow insights |
+
+
 <!--
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mefisto04&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
